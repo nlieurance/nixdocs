@@ -5,7 +5,7 @@ description: "Here's why I build this website."
 icon: "article"
 date: "2025-06-20T10:51:08-06:00"
 lastmod: "2025-06-20T10:51:08-06:00"
-draft: true
+draft: false
 toc: true
 ---
 **Here's the gist.**

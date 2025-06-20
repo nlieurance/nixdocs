@@ -5,7 +5,7 @@ description: "See how I align user needs with business goals"
 icon: "article"
 date: "2025-06-20T12:47:48-06:00"
 lastmod: "2025-06-20T12:47:48-06:00"
-draft: true
+draft: false
 toc: true
 ---
 

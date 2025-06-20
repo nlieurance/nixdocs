@@ -5,7 +5,7 @@ description: ""
 icon: "article"
 date: "2025-06-20T10:48:55-06:00"
 lastmod: "2025-06-20T10:48:55-06:00"
-draft: true
+draft: false
 toc: true
 ---
 **It's a fair question.**

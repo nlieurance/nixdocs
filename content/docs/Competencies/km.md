@@ -5,7 +5,7 @@ description: "Explore my history capturing, organizing, and sharing knowledge."
 icon: "article"
 date: "2025-06-20T12:22:13-06:00"
 lastmod: "2025-06-20T12:22:13-06:00"
-draft: true
+draft: false
 toc: true
 ---
 **I love to capture, organize, and share information.**
