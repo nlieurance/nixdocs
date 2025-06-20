@@ -1,7 +1,7 @@
 ---
 weight: 100
 title: "What's This Site About?"
-description: "Here's why I build this website."
+description: "Here's why I built this website."
 icon: "article"
 date: "2025-06-20T10:51:08-06:00"
 lastmod: "2025-06-20T10:51:08-06:00"
