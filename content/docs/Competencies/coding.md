@@ -22,6 +22,7 @@ I used Markdown to create all the content for this site. Then I turned it into H
 In 2014, I was the foreman at a cabinet shop in Colorado. To demonstrate the efficiency of a manufacturing process I wanted to use, I built this software simulation. From scratch. With Python and Tkinter. I'm not sure why I thought I'd be able to pull it off. But I did.
 
 ## PHP/MySQL
+![cabinetquotehome](https://www.dropbox.com/scl/fi/lh6ydpldm1lvow6pemjq1/CQhomepage.png?rlkey=pq3o5olt3jlssffhu40452wyf&st=lsq50aug&raw=1)
 CabinetQuote is a CRUD app I built back in 2015. It was a hobby project, although I did entertain ideas of taking it to market. Here are some of the important features I was able to build:
 - Authentication: Create an account with a username and password. CabinetQuote checks for those credentials when you attemtp to log in later. 
 - Content creation: Want to post a project so contractors can submit quotes? That's what CQ is all about. Add a photo or a link to an inspiring project on Pinterest.
